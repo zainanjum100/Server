@@ -1,10 +1,12 @@
 {
     "offers": [
         {
-            "Unclaimed Money": "https://trkfy.org/aff_c?offer_id=1420&aff_id=162981"
+            "title": "Unclaimed Money",
+            "url": "https://trkfy.org/aff_c?offer_id=1420&aff_id=162981"
         },
         {
-            "Unclaimed Money Searech": "https://trkfy.org/aff_c?offer_id=1420&aff_id=162855"
+            "title": "Unclaimed Money Search",
+            "url": "https://trkfy.org/aff_c?offer_id=1420&aff_id=162855"
         }
     ]
 }
